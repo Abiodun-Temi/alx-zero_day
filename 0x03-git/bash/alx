@@ -1,17 +1,17 @@
 #!/bin/bash
-<<<<<<< HEAD
->> update_script
+HEAD
+ update_script
 echo "ALX School"
 
 echo "ALX School is so cool!"
->> master
-=======
+ master
+
  HEAD
 echo "ALX School is so cool!"
-<<<<<<< HEAD
-=======
+ HEAD
 
->>>>>>> dacf69d8e765a719239b348a5d27d53a779611ab
+
+ dacf69d8e765a719239b348a5d27d53a779611ab
 echo "ALX School"
  update_script
->>>>>>> master
+master
